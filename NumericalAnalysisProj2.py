@@ -1,6 +1,7 @@
 #----------------------
-#Shay Fletcher     318727641
-#Nika Tatikishvili 321735433
+# Shay Fletcher     318727641
+# Nika Tatikishvili 321735433
+# https://github.com/shayfletcherz/NumericalAnalysis.git
 #----------------------
 
 #פונקציה אשר יוצרת מטריצה ריבועית לפי גודל מסוים של מטריצת יחידה
